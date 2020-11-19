@@ -10,16 +10,16 @@ Presentation: [here](PhaseThreeProject_LeahPope.pdf)
 
 Presentation Video: [here](linkgoeshere)
 
-![tanzania_map](images/tanzania-map.gif)
-
 ![water](images/pexels-photo-2837863.jpeg)
+
+![tanzania_map](images/tanzania-map.gif)
 
 
 # Introduction
 
 The goal of this project is to use data from the Tanzania Ministry of Water to gain insight into the country's waterpoints.   
 
-The Stakeholders for my project are Tanzania Ministry of Water officals who want a dashboard view of the country's offical waterpoints. Addtionally, the officals want to know if Classifer can be created using the current  data to predict waterpoint operational status.  A data-supported understanding of which waterpoints may be more likely to fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.
+The Stakeholders for my project are Tanzania Ministry of Water officals who want a dashboard view of the country's offical waterpoints. Addtionally, the officals want to know if Classifer can be created using the current data to predict waterpoint operational status. A data-supported understanding of which waterpoints may be more likely to fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.
 
 
 # Data Description
@@ -33,15 +33,15 @@ Data Set Used: Waterpoint data for the Republic of Tanzania:
 
 
 # EDA Questions Explored
-### Question 1: Dashboard Question 1
+### Question 1: What is the operational status of waterpoints in Tanzania?
 #### [Notebook](./notebooks/eda.ipynb)
 
 
-### Question 2: Dashboard Question 2 
+### Question 2: What is the reported Quality and Quantity of Working (Functioning and Functioning Needs Repair) waterpoints?
 #### [Notebook](./notebooks/eda.ipynb)
 
 
-### Question 3: Dashboard Question 3
+### Question 3: Is there a difference between the average age of Waterpoints by Operation Status?
 #### [Notebook](./notebooks/eda.ipynb)
 
 
