@@ -48,7 +48,7 @@ Data Set Used: Waterpoint data for the Republic of Tanzania:
 
 # Modeling
 ### Can current data on waterpoints be used to create a Classifer to predict operational status?
-#### [Notebook](./notebooks/model.ipynb)
+#### [Notebook](./notebooks/classifer_modeling.ipynb)
 
 
 
@@ -80,9 +80,10 @@ Futher analysis into the following areas could yield additional insights.
 --notebooks
 ----data_cleaning.ipynb
 ----eda.ipynb
-----model.ipynb
-----model_playground.ipynb
+----classifer_modeling.ipynb
 --data
-----tza_waterpoint_train.csv
-----tza_waterpoint_test.csv
+----train_processed_labeled.csv
+----test_processed.csv
+----challenge_submission.csv
+----original (dir for raw data downloaded from challenge website)
 ```
