@@ -56,13 +56,16 @@ Data Set Used: Waterpoint data for the Republic of Tanzania:
 
 Futher analysis into the following areas could yield additional insights.
 
-* __idea 1__  Details:
-    * Item 
-    * Item
+* __idea 1__  Futher Analysis into Working waterpoints:
+    * What are the water sources? 
+    * Who are the major installers?
+    * Who are the major management groups?
+    * Who are the major scheme managers?
 
-* __idea 2__  Details:
-    * Item 
-    * Item
+* __idea 2__  Water Availability Analysis:
+    * How many people use waterpoints? By Country, Region, District, Ward, etc. 
+    * How many people use lower Quality/Quantity waterpoints? By Country, Region, District, Ward, etc. 
+    * What do we know about the payment types? By Country, Region, District, Ward, etc.
 
 
 # For More Information
