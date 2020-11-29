@@ -6,9 +6,11 @@
 
 Prepared and presented by: [Leah Pope](https://www.linkedin.com/in/leahspope/) (full time Data Science student)
 
-Presentation: [here](PhaseThreeProject_LeahPope.pdf)
+Presentation: [here](./extras/PhaseThreeProject_LeahPope.pdf)
 
 Presentation Video: [here](linkgoeshere)
+
+Blog:[here](https://lspope.github.io/setting_the_stage_for_eda)
 
 ![water](images/pexels-photo-2837863.jpeg)
 
@@ -69,9 +71,9 @@ Futher analysis into the following areas could yield additional insights.
 
 
 # For More Information
-* Review the non-technical presentation [here](addlink)
-* View the non-technical presentation video [here](PhaseThreeProject_LeahPope.pdf)
-* Read the blog post (TBD) [here](addlink)
+* Review the non-technical presentation [here](./extras/PhaseThreeProject_LeahPope.pd)
+* View the non-technical presentation video [here](addlink)
+* Read my blog post [here](https://lspope.github.io/setting_the_stage_for_eda)
 * Contact the author [Leah Pope](https://www.linkedin.com/in/leahspope/)
 
 
@@ -86,4 +88,5 @@ Futher analysis into the following areas could yield additional insights.
 ----test_processed.csv
 ----challenge_submission.csv
 ----original (dir for raw data downloaded from challenge website)
+--extras (dir for Project Presentation and other supporting files)
 ```
