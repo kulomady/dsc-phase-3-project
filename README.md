@@ -8,7 +8,7 @@ Prepared and presented by: [Leah Pope](https://www.linkedin.com/in/leahspope/) (
 
 Presentation: [here](./extras/PhaseThreeProject_LeahPope.pdf)
 
-Presentation Video: [here](linkgoeshere)
+Presentation Video: [here](./extras/PhaseThreeProjectPresentation_LeahPope.mp4)
 
 Blog:[here](https://lspope.github.io/setting_the_stage_for_eda)
 
@@ -72,7 +72,7 @@ Futher analysis into the following areas could yield additional insights.
 
 # For More Information
 * Review the non-technical presentation [here](./extras/PhaseThreeProject_LeahPope.pd)
-* View the non-technical presentation video [here](addlink)
+* View the non-technical presentation video [here](./extras/PhaseThreeProjectPresentation_LeahPope.mp4)
 * Read my blog post [here](https://lspope.github.io/setting_the_stage_for_eda)
 * Contact the author [Leah Pope](https://www.linkedin.com/in/leahspope/)
 
